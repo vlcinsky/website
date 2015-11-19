@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome Here at Github\n\n\nFor full documentation visit \nmkdocs.org\n.\nFor full documentation visit \nmkdocs.org\n.\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome Here at Github\n\n\nFor full documentation visit \nmkdocs.org\n.\nFor full documentation visit \nmkdocs.org\n.\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands Command Command Command Command Command Commandssssss\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
@@ -11,9 +11,9 @@
             "title": "Welcome Here at Github"
         }, 
         {
-            "location": "/#commands", 
+            "location": "/#commands-command-command-command-command-command-commandssssss", 
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "title": "Commands Command Command Command Command Command Commandssssss"
         }, 
         {
             "location": "/#project-layout", 
